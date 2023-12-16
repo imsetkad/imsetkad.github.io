@@ -1200,7 +1200,7 @@ h3 {
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
-  border: 1px solid #C78665;
+  border: 1px solid #331a1a;
   top: -30px;
   left: -20px;
   z-index: -3;
@@ -1236,7 +1236,7 @@ h3 {
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
-  border: 1px solid #F2C64D;
+  border: 1px solid #3b0606;
   top: -30px;
   left: -40px;
   z-index: -3;
@@ -1265,7 +1265,7 @@ h3 {
 
 /* line 1, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/_wedding_counter.scss */
 .counter_bg {
-  background-image: url(../img/counter_bg/counter_bg.png);
+  background-image: url(/Users/abdoulsmac/Desktop/image_website/countdown_cropped.jpeg);
 }
 
 /* line 4, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/_wedding_counter.scss */
@@ -1355,7 +1355,7 @@ h3 {
 
 /* line 4, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/_program.scss */
 .program_bg_2 {
-  background-image: url(../img/program_details/2.png);
+  background-image: url(/Users/abdoulsmac/Desktop/image_website/palmeraie.jpeg);
 }
 
 /* line 7, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/_program.scss */
