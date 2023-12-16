@@ -79,6 +79,7 @@ h1, h2, h3, h4, h5 {
   color: #1F1F1F;
 }
 
+
 /* line 48, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/theme-default.scss */
 h1 a,
 h2 a,
@@ -1265,7 +1266,7 @@ h3 {
 
 /* line 1, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/_wedding_counter.scss */
 .counter_bg {
-  background-image: url(/Users/abdoulsmac/Desktop/image_website/countdown_cropped.jpeg);
+  background-image: url(../img/assets/countdown_cropped.jpeg);
 }
 
 /* line 4, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/_wedding_counter.scss */
@@ -1355,7 +1356,7 @@ h3 {
 
 /* line 4, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/_program.scss */
 .program_bg_2 {
-  background-image: url(/Users/abdoulsmac/Desktop/image_website/palmeraie.jpeg);
+  background-image: url(../img/assets/palmeraie.jpeg);
 }
 
 /* line 7, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/_program.scss */
@@ -1380,7 +1381,6 @@ h3 {
 /* line 18, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/_program.scss */
 .program_details_area .single_program .program_inner {
   background: #fff;
-  padding: 57px 30px;
 }
 
 /* line 22, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/_program.scss */
@@ -5319,6 +5319,13 @@ h6 {
 
 .hover_ceremony:hover {
   transform: scale(2); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+p.script_mots_maries {
+  color: #333; 
+  font-size: 15px !important;
+  font-family: "Petit Formal Script", cursive !important;
+  
 }
 
 /*# sourceMappingURL=style.css.map */
