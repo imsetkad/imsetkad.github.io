@@ -990,7 +990,7 @@ h3 {
 @media (max-width: 767px) {
   /* line 7, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/_slider.scss */
   .slider_bg_1 {
-    background-image: none;
+    background-image: url(../img/banner/banner.png);
   }
 }
 
