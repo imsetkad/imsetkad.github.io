@@ -990,7 +990,7 @@ h3 {
 @media (max-width: 767px) {
   /* line 7, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/_slider.scss */
   .slider_bg_1 {
-    background-image: none;
+    background-image: url(../img/assets/mobile_img_3.png);
   }
 }
 
@@ -1081,8 +1081,8 @@ h3 {
     top: 50%;
     transform: translateY(-50%);
     display: inline-block;
-    width: 270px;
-    height: 270px;
+    width: 200px;
+    height: 200px;
   }
 }
 
@@ -1099,8 +1099,8 @@ h3 {
     top: 50%;
     transform: translateY(-50%);
     display: inline-block;
-    width: 270px;
-    height: 270px;
+    width: 210px;
+    height: 210px;
   }
 }
 
@@ -1167,7 +1167,7 @@ h3 {
     font-weight: 400;
     color: #fff;
     line-height: 30px;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
     margin-top: 15px;
   }
 }
@@ -1183,7 +1183,6 @@ h3 {
     margin-top: 15px;
   }
 }
-
 /* line 138, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/_slider.scss */
 .slider_area_inner .slider_text span {
   font-size: 18px;
@@ -1192,6 +1191,14 @@ h3 {
   color: #fff;
 }
 
+@media (max-width: 767px) {
+  .slider_area_inner .slider_text span {
+    font-size: 14px;
+    font-family: "Petit Formal Script", cursive;
+    font-weight: 400;
+    color: #fff;
+  }
+}  
 /* line 144, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/_slider.scss */
 .slider_area_inner .slider_text:before {
   position: absolute;
